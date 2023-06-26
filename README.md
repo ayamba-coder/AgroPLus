@@ -1,5 +1,6 @@
 # AgroPLus
-A non-responsive Agricultural Food supply chain company.
 My first personal portfolio project with no layout systems like grid nor flexbox.<br>
-View on breakpoints => 1024px 
+A non-responsive Agricultural Food supply chain company.
+<br>
+Please View on breakpoints above ||= 1024px 
 :)
